@@ -1,4 +1,4 @@
 # AoC 2024
 
-- J1 : Done
-- J2 - En cours
+- J1 - Done
+- J2 - Done
